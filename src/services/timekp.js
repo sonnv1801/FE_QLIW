@@ -1,6 +1,6 @@
 import Axios from "axios";
 
-const API = "http://localhost:8000/v1/timekp";
+const API = "https://i-work.onrender.com/v1/timekp";
 
 export class TimeKP {
   gettimeKP(accessToken) {
